@@ -1,0 +1,6 @@
+def main():
+ ab = ' ABCDEFGHIJKLMNOPQRSTUVWXYZAB'
+ n = int(input())
+ print(ab[n:n + 4])
+if __name__ == "__main__":
+        main()    
