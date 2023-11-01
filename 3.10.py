@@ -5,3 +5,6 @@ def main():
         slova += word + ' '
         if word == 'стоп':
             break
+
+if __name__ == "__main__":
+    main()
